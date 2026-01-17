@@ -106,8 +106,13 @@ flashcard-pintar-balita/
 ---
 
 ## 📸 Screenshot
-*(Tambahkan screenshot aplikasi di sini)*
+## 📸 Screenshot
 
+<img src="assets/screenshots/flashcard_statis.png" width="700">
+
+<img src="assets/screenshots/kamera_real-time.png" width="700">
+
+<img src="assets/screenshots/tebak_gambar.png" width="700">
 ---
 
 ## 👨‍💻 Pengembang
