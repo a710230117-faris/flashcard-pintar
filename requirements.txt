@@ -1,0 +1,8 @@
+ultralytics==8.3.8
+opencv-python==4.10.0.84
+streamlit==1.38.0
+python-dotenv==1.0.1
+requests==2.32.3
+Pillow==10.4.0
+numpy==2.1.1
+gtts==2.5.3
