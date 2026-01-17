@@ -10,7 +10,7 @@ import random
 # =========================
 # Load model YOLO
 # =========================
-model = YOLO("https://huggingface.co/farizzibn/yolov8n/resolve/main/yolov8n.pt")
+model = YOLO("yolov8n.pt")
 
 # =========================
 # Mapping nama objek
@@ -83,7 +83,7 @@ h1, h2, h3 {
 # =========================
 # UI Header
 # =========================
-st.title("🎨 Flashcard Pintar 👶📸")
+st.title("🎨 Flashcard Pintar PAUD")
 st.markdown("Belajar mengenal benda dengan **kamera**, **gambar**, atau **tebak gambar**")
 
 # =========================
@@ -94,6 +94,9 @@ mode = st.sidebar.radio(
     ["📸 Kamera Real-time", "🖼️ Flashcard Statis", "🧠 Tebak Gambar"]
 )
 
+# =========================
+# MODE KAMERA
+# =========================
 # =========================
 # MODE KAMERA
 # =========================
