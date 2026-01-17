@@ -106,7 +106,6 @@ flashcard-pintar-balita/
 ---
 
 ## 📸 Screenshot
-## 📸 Screenshot
 
 <img src="assets/screenshots/flashcard_statis.png" width="700">
 
