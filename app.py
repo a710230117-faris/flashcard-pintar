@@ -10,7 +10,7 @@ import random
 # =========================
 # Load model YOLO
 # =========================
-model = YOLO("yolov8n.pt")
+model = YOLO("https://huggingface.co/farizzibn/yolov8n/resolve/main/yolov8n.pt")
 
 # =========================
 # Mapping nama objek
