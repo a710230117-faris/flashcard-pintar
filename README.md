@@ -127,4 +127,3 @@ Proyek ini dibuat untuk keperluan **edukasi dan pembelajaran**.
 ---
 
 ⭐ Jika proyek ini bermanfaat, jangan lupa beri **star** di GitHub!
-
